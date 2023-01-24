@@ -152,6 +152,6 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+Credit: [Kaushik Chaudhari](https://github.com/0xabdulkhalid)
 
 Last Edited on: 09/11/2022
